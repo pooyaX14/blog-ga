@@ -1,2 +1,2 @@
-Responsive blog page(General assembly: projects).
+Responsive blog page(General assembly project).
 
